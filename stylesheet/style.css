@@ -74,13 +74,13 @@ body {
 }
 
 .banner {
-	height:329px;
+	height:345px;
 	background:url(../images/banner_candidate.png) left top no-repeat;
 }
 
 .welcomezone {
 	width:269px;
-	height:329px;
+	height:345px;
 	background:#4B8123 url(../images/welcometop.jpg) right top no-repeat;
 }
 
@@ -92,6 +92,7 @@ body {
 .welcomeworkarea {
 	padding:25px 16px 0px 16px;
 	color:#ffffff;
+    height:335px;
 }
 
 .workarea {
@@ -318,11 +319,11 @@ a:hover {
 /* Inside Style Start Here	*/
 
 .insidebanner {
-	height:329px;
+	height:345px;
 	background:url(../images/insidebanner_new.jpg) left top no-repeat;
 }
 .servicesbanner {
-	height:329px;
+	height:345px;
 	background:url(../images/servicesbanner.png) left top no-repeat;
 }
 
